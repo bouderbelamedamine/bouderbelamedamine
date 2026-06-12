@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bouderbala Med Amine</h1>
-<h3 align="center">Cloud & DevOps Student | Docker • Kubernetes • CI/CD • Linux</h3>
+<h3 align="center">Cloud & DevOps Student | Docker • Kubernetes • CI/CD • Linux • OpenStack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bouderbelamedamine" target="_blank">
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 - 🎓 Cloud & DevOps student, building hands-on infrastructure and CI/CD projects
-- 🔧 Currently focused on Docker, Kubernetes, GitHub Actions, Terraform and Helm
+- 🔧 Currently focused on Docker, Kubernetes, OpenStack, GitHub Actions, Terraform and Helm
 - 📌 Based in Tunis, Tunisia
 - 💼 Open to internships and entry-level DevOps/Cloud opportunities
 
@@ -24,6 +24,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -34,7 +35,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🔄 **Cloud-Native CI/CD Platform** — Spring Boot, Angular, MySQL, Docker, Kubernetes, GitHub Actions, ArgoCD *(coming soon)*
+- 🔄 **Cloud-Native CI/CD Platform** — Spring Boot, Angular, MySQL, Docker, Kubernetes, OpenStack, GitHub Actions, ArgoCD *(coming soon)*
 - 📊 **Kubernetes Monitoring Stack** — Prometheus & Grafana *(coming soon)*
 - 🏗️ **Terraform Infrastructure as Code** *(coming soon)*
 - 🔐 **DevSecOps CI/CD Pipeline** *(coming soon)*
